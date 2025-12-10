@@ -1,0 +1,1 @@
+# Smart-Health-Predictor-Diabetes-Heart-and-Parkinson-s-Detection-Using-Machine-Learning
